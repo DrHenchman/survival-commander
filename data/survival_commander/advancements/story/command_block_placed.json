@@ -1,0 +1,22 @@
+{
+  "parent": "survival_commander:story/root",
+  "display": {
+    "icon": {
+      "item": "minecraft:writable_book"
+    },
+    "title": "My first command",
+    "description": "Place your first command block",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "place_command_block": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "item": {
+          "item": "minecraft:command_block"
+        }
+      }
+    }
+  }
+}

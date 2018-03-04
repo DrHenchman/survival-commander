@@ -1,0 +1,17 @@
+{
+  "parent": "survival_commander:story/root",
+  "display": {
+    "icon": {
+      "item": "minecraft:player_head"
+    },
+    "title": "Commander Sarc",
+    "description": "Who else will get you back rubs and lemonade",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "command_only": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

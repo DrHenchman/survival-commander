@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:command_block"
+    },
+    "title": "Survival Commander!",
+    "description": "Its survival...but with command blocks",
+    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "discover_command_block_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "survival_commander:command_block"
+      }
+    }
+  }
+}

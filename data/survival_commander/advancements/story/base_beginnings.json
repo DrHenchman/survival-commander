@@ -1,0 +1,17 @@
+{
+  "parent": "survival_commander:story/root",
+  "display": {
+    "icon": {
+      "item": "minecraft:armor_stand"
+    },
+    "title": "Base Beginnings",
+    "description": "Commanders don't walk places",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "command_only": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

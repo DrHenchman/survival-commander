@@ -1,0 +1,28 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "#!#",
+    "$@%",
+    "#!#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:orange_terracotta"
+    },
+    "!": {
+      "item": "minecraft:quartz"
+    },
+    "$": {
+      "item": "minecraft:repeater"
+    },
+    "@": {
+      "item": "minecraft:redstone_block"
+    },
+    "%": {
+      "item": "minecraft:comparator"
+    }
+  },
+  "result": {
+    "item": "minecraft:command_block"
+  }
+}
