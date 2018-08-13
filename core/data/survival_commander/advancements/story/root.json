@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "discover_command_block_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "survival_commander:command_block"
+      }
+    }
+  },
+  "rewards": {
+    "function": "survival_commander:make_commander"
+  }
+}

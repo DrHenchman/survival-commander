@@ -1,13 +1,22 @@
-# Survival Commander Datapack v0.1 for Minecraft 1.13+
+# Survival Commander for Minecraft 1.13+
 
-A datapack for Minecraft 1.13+ which is inspired by the
-[Survival Commander series by Zedaph](https://www.youtube.com/playlist?list=PLaURolsKD_VGoVCadwVdGqAdlWnTwoBdr).
+Survival Commander for Minecraft 1.13+ are a number of datapack inspired by the [Survival Commander series by Zedaph](https://www.youtube.com/playlist?list=PLaURolsKD_VGoVCadwVdGqAdlWnTwoBdr).
+They allow you to obtain command blocks in a survival world and use them in restricted ways.
+
+Note: Some restraint is required by the player as the datapack cannot control what you can do with a command
+block. It also puts the player temporarily into creative. Only use on a world where all players can be fully
+trusted.
 
 ## Features
 
+### Core
+
 * Allow you to craft a command block in a survival world via a crafting table
 * Switches you to creative so you can place and modify command blocks
-* Some advancements inspired by the Survival Commander series
+
+### Advancements
+
+* Some advancements inspired by Zedaph's Survival Commander series
 
 ## How to install
 
@@ -19,4 +28,4 @@ A datapack for Minecraft 1.13+ which is inspired by the
 
 * Zedaph - Original creator of the Survival Commander concept
 * SimplySarc - Fellow Survival Commander from the original series
-* DrHenchman - Creator of the datapack
+* DrHenchman - Creator of the datapacks

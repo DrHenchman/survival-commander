@@ -1,7 +1,6 @@
 {
   "replace": false,
   "values": [
-    "survival_commander:detect_commanders",
     "survival_commander:armor_stand_advancements"
   ]
 }

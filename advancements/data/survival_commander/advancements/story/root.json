@@ -16,5 +16,8 @@
         "recipe": "survival_commander:command_block"
       }
     }
+  },
+  "rewards": {
+    "function": "survival_commander:make_commander"
   }
 }
