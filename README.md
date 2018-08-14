@@ -9,20 +9,22 @@ trusted.
 
 ## Features
 
-### Core
+### Core datapack
 
 * Allow you to craft a command block in a survival world via a crafting table
 * Switches you to creative so you can place and modify command blocks
 
-### Advancements
+### Advancements datapack
 
 * Some advancements inspired by Zedaph's Survival Commander series
 
 ## How to install
 
-1. Download the [zip file](https://github.com/DrHenchman/survival-commander/releases/download/v0.1/survival-commander-v0_1.zip) for the latest release of the datapack
-2. Place the zip file in in the `<world>/datapacks/` folder
-3. Run `/reload` on your server to detect the new datapack
+1. Download the zip file(s) for the latest release:
+  * [Core datapack](https://github.com/DrHenchman/survival-commander/releases/download/v0.2/survival-commander-core.zip) - Required
+  * [Advancements datapack](https://github.com/DrHenchman/survival-commander/releases/download/v0.2/survival-commander-advancements.zip) - Optional
+2. Place the zip file(s) in the `<world>/datapacks/` folder
+3. Run `/reload` on your server to detect the new datapack(s)
 
 ## Credits
 
