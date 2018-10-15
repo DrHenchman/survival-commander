@@ -1,3 +1,5 @@
 
 scoreboard objectives add SC_commanding dummy
 scoreboard objectives add SC_placed_CB minecraft.used:minecraft.command_block
+scoreboard objectives add SC_placed_CCB minecraft.used:minecraft.chain_command_block
+scoreboard objectives add SC_placed_RCB minecraft.used:minecraft.repeating_command_block
