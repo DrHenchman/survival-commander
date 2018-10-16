@@ -21,8 +21,8 @@ trusted.
 ## How to install
 
 1. Download the zip file(s) for the latest release:
-  * [Core datapack](https://github.com/DrHenchman/survival-commander/releases/download/v0.2/survival-commander-core.zip) - Required
-  * [Advancements datapack](https://github.com/DrHenchman/survival-commander/releases/download/v0.2/survival-commander-advancements.zip) - Optional
+  * [Core datapack](https://github.com/DrHenchman/survival-commander/releases/download/v0.3/survival-commander-core.zip) - Required
+  * [Advancements datapack](https://github.com/DrHenchman/survival-commander/releases/download/v0.3/survival-commander-advancements.zip) - Optional
 2. Place the zip file(s) in the `<world>/datapacks/` folder
 3. Run `/reload` on your server to detect the new datapack(s)
 
